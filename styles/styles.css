@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(60, 90, 120);
+    border: 10px solid rgb(200,1,50); 
+    box-shadow:500px 50px 150px(90, 70, 10, 200);
+    margin: 10px;
+    height: 50px;
+    letter-spacing:7px;
+    text-shadow:60px, 4px #ccc;
+    backface-visibility:visible;
+    bottom:20px;
+    box-sizing:20px;
+    font-kerning:normal;
+    grid:2;
+    right:200px;
+    text-indent:40px;
+}
+li {
+    font-size: 15px;
+    text-align:center;
+    list-style:square;
+    text-decoration:underline green;
+    padding:5px;
+    line-height:10;
+    columns:150px;
+    font:serif;
+    outline:3px solid;
+    perspective:3000px;
+}
